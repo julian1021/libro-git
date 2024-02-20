@@ -1,0 +1,4 @@
+﻿“En aquest capitol veurem com utilitzar GitHub per guardar repositoris
+remots.”
+
+
